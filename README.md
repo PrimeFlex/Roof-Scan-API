@@ -74,9 +74,7 @@ If early-stage and still being built, just include:
   ],
   "recommendation": "Inspection recommended. Visible signs of damage detected."
 }
-
-
----
+```
 
 How It Works
 
